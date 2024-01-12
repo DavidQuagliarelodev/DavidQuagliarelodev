@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-###  David Quagliarelo!
-
-
-
+##  David Quagliarelo!
 <p align="left">
   <a href="quagliarelod@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -17,7 +14,7 @@
 "Sou um desenvolvedor FullStack, com foco em Java Script e frameworks como Angular, React e React Native, sempre buscando melhorar e me desenvolver como Dev!"
 
 
----
+
 
 ### 🚀 Minhas Skills
 
