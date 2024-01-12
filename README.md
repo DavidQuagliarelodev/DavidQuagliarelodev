@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-### 😉 Salve! Como vai?, meu nome é David Quagliarelo!
+###  David Quagliarelo!
+
 
 
 <p align="left">
