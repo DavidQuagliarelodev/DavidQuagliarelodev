@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="ilustração de um computador" min-width="200px" max-width="200px" width="300px" align="right">
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="ilustração de um computador" min-width="200px" max-width="200px" width="300px" align="right">-->
 
 
 ##  David Quagliarelo!
